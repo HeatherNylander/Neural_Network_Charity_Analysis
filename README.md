@@ -26,3 +26,7 @@ With your knowledge of machine learning and neural networks, you’ll use the fe
 
 ## Summary
 I was not able to acheieve an accuracy of 75%. Interestingly, when the sigmoid and tanh activation functions were used, accuracy decreased. My conclusion is that for this dataset, the relu activation function is the most accurate.
+
+##### Model Recommendations
+- Try a RandomForest Model
+- Get stats on data and drop data based on standard deviation rather than eyeballing the data from a density graph.
